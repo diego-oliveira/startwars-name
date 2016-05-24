@@ -1,0 +1,28 @@
+{
+  "name": "startwars-name",
+  "version": "1.0.0",
+  "description": "Get random Star Wars names",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diego-oliveira/startwars-name.git"
+  },
+  "keywords": [
+    "random",
+    "star",
+    "wars",
+    "name"
+  ],
+  "author": "Diego Oliveira <oliveira.bsi@gmail.com> (http://doliveira.me/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/diego-oliveira/startwars-name/issues"
+  },
+  "homepage": "https://github.com/diego-oliveira/startwars-name#readme",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
+}
